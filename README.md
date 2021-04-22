@@ -6,6 +6,7 @@
 ![](https://img.shields.io/github/downloads/ViRb3/wgcf/total)
 ![](https://img.shields.io/github/languages/code-size/ViRb3/wgcf)
 
+
 ## Features
 - Register new account
 - Change license key to use existing Warp+ subscription
